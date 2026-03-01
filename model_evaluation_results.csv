@@ -1,0 +1,4 @@
+Segment,Accuracy,Precision,Recall,F1_Score,ROC_AUC
+Budget Conscious,0.88,0.8,0.6666666666666666,0.7272727272727273,0.9429824561403509
+Young Professionals,1.0,0.0,0.0,0.0,
+Premium Spenders,0.8222222222222222,0.0,0.0,0.0,1.0
